@@ -1,3 +1,20 @@
+//Code written by: Mohamed Adam Jemal
+
+//Disclaimer 
+
+/*
+  This Arduino code for this smart watering system is an open source and free to use, modify and distribute.
+  
+  You are welcome to:
+  - Use this code for personal or commercial projects.
+  - Modify and adapt this code to suit your needs.
+  - Share this code with others.
+  
+  If you distribute or share this code, please retain this disclaimer.  
+  
+  Thank you for contributing to the open-source community!
+*/
+
 #include <U8g2lib.h>
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
